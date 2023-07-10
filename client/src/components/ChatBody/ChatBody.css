@@ -1,0 +1,10 @@
+@import url("../../style.css");
+
+.ChatBody {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: calc(100% - 180px);
+  border: 2px solid rgb(214, 9, 129);
+}

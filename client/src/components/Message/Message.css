@@ -1,0 +1,12 @@
+@import url("../../style.css");
+
+.Message {
+  position: relative;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: fit-content;
+  padding: 15px 20px;
+  margin: 5px 0px;
+  border: 2px solid rgb(0, 217, 255);
+}
